@@ -19,6 +19,7 @@ from . import views
 
 
 # this is how i add my url so the user can click onto my path
+# KEY: Check the IDE for errors. Looks like project was misconfigured. Test early and let us know if you are having issues.
 
 urlpatterns = [
     path('gogetthegoods/',view.gogetthegoods name=goods),

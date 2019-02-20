@@ -1,3 +1,6 @@
+### POINTS: 1
+### KEY: I gave u a bit because you were on right track, but you have to look for errors flagged by the IDE and address them.
+
 # Intro to Django routes 2 graded classwork 
 
 Endpoints are the most important concept when it comes to backend web services. Based on the URL you route the request to the proper piece of code to service the request and return a response.
